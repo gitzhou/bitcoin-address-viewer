@@ -20,15 +20,15 @@ No worry about any public or private key revealled.
 
 1. Add your Bitcoin address in `btc.address`, one address per line
 
-![bav-btc-address.png](https://ol0jbsdum.qnssl.com/bav-btc-address.png)
+![bav-btc-address.png](https://i.imgur.com/B8zQWvB.png)
 
 2. Add your Bitcoin Cash address in `bch.address`, one address per line
 
-![bav-bch-address.png](https://ol0jbsdum.qnssl.com/bav-bch-address.png)
+![bav-bch-address.png](https://i.imgur.com/AgQhDH1.png)
 
 3. Click the `Refresh` button and enjoy
 
-![bav-ui.png](https://ol0jbsdum.qnssl.com/bav-ui.png)
+![bav-ui.png](https://i.imgur.com/IjG6oio.png)
 
 ## DEV env
 
